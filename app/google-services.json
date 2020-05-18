@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127273986464",
+    "firebase_url": "https://videaapp-19a38.firebaseio.com",
+    "project_id": "videaapp-19a38",
+    "storage_bucket": "videaapp-19a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127273986464:android:bea4e289057c81aacd5cc5",
+        "android_client_info": {
+          "package_name": "com.example.videaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127273986464-sevfqcjcnd85g0dm5hm9bv9d9qsqova9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videaapp",
+            "certificate_hash": "022ddccb072fb12c27b0750c1722276e98c6a06f"
+          }
+        },
+        {
+          "client_id": "127273986464-6klo8bdnh63lil636j119lv0ibc4bmq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjX-10bthCq8AoY3ylI1RdZHKn5YEalGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127273986464-6klo8bdnh63lil636j119lv0ibc4bmq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
